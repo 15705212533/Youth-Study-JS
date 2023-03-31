@@ -1,4 +1,4 @@
-name: Auto JsQndxx
+name: Auto YouthStudy-JS
 on:
   schedule:
     - cron: '0 5 * * 1,3'
